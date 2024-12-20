@@ -1,5 +1,5 @@
-import { Link, router } from "expo-router";
-import { Image, Pressable, SafeAreaView, StyleSheet, Text, View } from "react-native";
+import { router } from "expo-router";
+import { Image, SafeAreaView, StyleSheet, Text } from "react-native";
 import { Button } from "../components/button";
 
 export default function Screen() {
